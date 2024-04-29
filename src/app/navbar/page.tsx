@@ -1,5 +1,5 @@
 import Logo from "./logo";
-import NavigationBar from "./navigation-bar";
+import { NavigationBar } from "./navigation-bar";
 import ActionButtons from "./action-buttons";
 
 const Navbar = () => {

@@ -30,7 +30,6 @@ const ActionButtons = () => {
                     <Link href="/">Pricing</Link>
                     <Link href="/">Contact</Link>
                     <Link href="/">About</Link>
-                    <Link href="/">Sign In</Link>
                   </div>
                 </SheetDescription>
               </SheetHeader>
